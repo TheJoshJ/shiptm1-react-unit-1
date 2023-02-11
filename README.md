@@ -1,4 +1,4 @@
-# Shipt React Native Unit 1 Assessment
+# React Native Unit 1 Assessment
 
 Please refer to discord to complete the multiple choice portion of this assessment.
 
